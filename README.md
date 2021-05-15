@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sheryfaseh
+- 👀 I’m interested in JAVA and FLUTTER
+- 🌱 I’m currently learning FLUTTER
+- 💞️ I’m looking to collaborate on big companies projects
+- 📫 How to reach me ... knock me at sheryfaseh80@gmail.com
